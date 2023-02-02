@@ -1,11 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T05:58:51.715Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="aX5xrZilsJq0jIaT4I4p" version="20.8.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T08:31:27.075Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="_jEfr3P-EPftsjnag7o5" version="20.8.11" type="github">
   <diagram id="q9V0a5muKVpJxnvX1E8P" name="第 1 页">
-    <mxGraphModel dx="1194" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="853" dy="546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DYQuNRCOeBw9W_rcUtsJ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#CCDCF5;sketch=1;strokeColor=#2A4F80;" vertex="1" parent="1">
+        <mxCell id="DYQuNRCOeBw9W_rcUtsJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="DYQuNRCOeBw9W_rcUtsJ-1" target="DYQuNRCOeBw9W_rcUtsJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DYQuNRCOeBw9W_rcUtsJ-1" value="网关" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#CCDCF5;sketch=1;strokeColor=#33609C;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="250" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DYQuNRCOeBw9W_rcUtsJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="DYQuNRCOeBw9W_rcUtsJ-2" target="DYQuNRCOeBw9W_rcUtsJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DYQuNRCOeBw9W_rcUtsJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;dashed=1;" edge="1" parent="1" source="DYQuNRCOeBw9W_rcUtsJ-2" target="DYQuNRCOeBw9W_rcUtsJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DYQuNRCOeBw9W_rcUtsJ-2" value="路由服务" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#CCDCF5;sketch=1;strokeColor=#33609C;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="250" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DYQuNRCOeBw9W_rcUtsJ-3" value="旧服务" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#CFFAD8;sketch=1;strokeColor=#329E4E;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DYQuNRCOeBw9W_rcUtsJ-4" value="新服务" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#FACEC7;sketch=1;strokeColor=#9E4034;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="354" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
